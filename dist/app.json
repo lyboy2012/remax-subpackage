@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "package",
+      "pages": [
+        "pages/a/index"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTitleText": "Remax Ali Template With TypeScript",
+    "navigationBarBackgroundColor": "#282c34"
+  }
+}
